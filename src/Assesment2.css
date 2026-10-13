@@ -1,0 +1,15 @@
+.AgeCalculator{
+    background-color: rgba(0, 0, 255, 0.478);
+    width: 40%;
+    text-align: center;
+    padding:50px;
+    border-radius: 30px;
+    border: 2px solid blue ;
+
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: none;
+}

@@ -1,0 +1,19 @@
+.habit-box{
+    /* background-color: #343a40;
+    border: 1px solid #495057;
+    width:30%;
+    border-radius: 20px;
+    height: 50vh;
+    display: flex;
+    flex-direction:column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center; */
+}
+.container{
+   background-color:#212529;
+   color: lightgreen;
+   height: 88vh;
+   padding-top: 1px;
+
+}

@@ -1,0 +1,65 @@
+.counter{
+    text-align: center;
+    padding-top: 100px;
+    font-size: 30px;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    margin: 10px;
+}
+
+.btn{
+    display: block;
+    margin-left: 80%;
+}
+
+.accordion{
+    margin-left: -75%;
+}
+
+.accordion-header{
+    cursor: pointer;
+    font-size: 20px;
+    background-color: lightgray;
+    padding: 10px;
+}
+
+.accordion-content{
+    padding: 25px;
+    background-color: lightblue;
+    margin-left: 22%;
+}
+
+.delete-confirm{
+    background-color: rgb(255, 249, 249);
+    border: 1px solid black;
+    width: 40%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.yes{
+    background-color: rgb(255, 249, 249);
+    border: 1px solid black;
+    width: 40%;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    position: absolute;  
+    text-align: center;
+    display: block;
+    margin-left: 27%;
+}
+
+.container .yes{
+    position: absolute;  
+    text-align: center;
+    display: block;
+    margin-left: 27%;
+}

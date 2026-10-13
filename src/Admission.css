@@ -1,0 +1,28 @@
+.container{
+   background-color: white;
+   width:25%;
+   height: 980px;
+   padding: 30px;
+   border-radius:20px;
+   margin-left:12%;
+}
+.background{
+    padding: 20px;
+    background-image: url('./asset/mecbackground.png');
+    display: flex;
+    direction: row;
+
+}
+input{
+    border-radius: 2px;
+    padding: 5px;
+    border:1px solid grey;
+}
+button{
+    background-color: rgb(82, 225, 82);
+    padding: 10px 40px;
+    color: white;
+    font-size: medium;
+    border-radius: 20px;
+    border: none;
+}
