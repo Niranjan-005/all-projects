@@ -5,9 +5,10 @@ const Projects_Task =()=>{
     return(
         <>
         <div className="container">
-        <h1>My Projects</h1>
+        
         
         <div className="habit-box">
+            <h1>My Projects</h1>
         <h2>Habit tracker</h2>
         <p>Track your daily habits and tasks.</p>
         </div>
